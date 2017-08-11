@@ -1,7 +1,7 @@
 package main
 
 import (
-	ussd "../stk"
+	ussd "../ussd"
 	"log"
 	"net/http"
 )
